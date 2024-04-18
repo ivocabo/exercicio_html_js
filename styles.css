@@ -1,0 +1,15 @@
+.message {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.valid {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.invalid {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
